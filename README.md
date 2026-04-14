@@ -2,7 +2,7 @@
 
 Proyek ini adalah implementasi *End-to-End Data Pipeline* di lingkungan komputasi awan (AWS) untuk memprediksi harga saham PT Medco Energi Internasional Tbk (MEDC) dan mendeteksi anomali volatilitas yang disebabkan oleh guncangan makroekonomi/geopolitik.
 
-Proyek ini merupakan Evaluasi Tengah Semester (ETS) untuk mata kuliah Big Data / Komputasi Awan, Program Studi Sains Data, UPN "Veteran" Jawa Timur.
+Proyek ini merupakan Evaluasi Tengah Semester (ETS) untuk mata kuliah Komputasi Awan, Program Studi Sains Data, UPN "Veteran" Jawa Timur.
 
 ## 👥 Tim Pengembang (Kelompok 4)
 * **Muhammad Handika Maulana Sifa** (24083010036) - *Data Collecting & Data Preprocessing*
